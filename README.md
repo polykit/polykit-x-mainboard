@@ -14,6 +14,8 @@ Key features:
 
 All parameters of the voice cards are controlled by the DAC. That means patches can be stored and recalled.
 
+There is a video playlist on the design process https://makertube.net/w/p/3N2fRjXwT2SfAUv2VkMy3e
+
 ![Polykit X8 Main Board Rendering](polykit-x-mainboard-rendering.jpg)
 
 Related repositories:
@@ -29,4 +31,4 @@ _soon_
 
 ## Tweaks
 
-* If saw/triangle signal is not audible replace R38 with a 220k resistor
+* If saw/triangle signal is not audible replace R38 with a 220k resistor on the voice cards

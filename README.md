@@ -14,6 +14,8 @@ Key features:
 
 All parameters of the voice cards are controlled by the DAC. That means patches can be stored and recalled.
 
+![Polykit X8 Main Board Rendering](polykit-x-mainboard-rendering.jpg)
+
 Related repositories:
 
 * Voice Card: https://github.com/polykit/polykit-x-voice-card

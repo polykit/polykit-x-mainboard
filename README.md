@@ -21,7 +21,8 @@ There is a video playlist on the design process https://makertube.net/w/p/3N2fRj
 Related repositories:
 
 * Voice Card: https://github.com/polykit/polykit-x-voice-card
-* Control Board: _soon_
+* Control Board: https://github.com/polykit/polykit-x-controlboard
+* Input Board: _soon_
 * Software: _soon_
 * Power Supply: https://github.com/polykit/eurorack-psu
 
